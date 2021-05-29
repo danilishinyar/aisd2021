@@ -1,0 +1,27 @@
+[submodule "lab05"]
+	path = lab05
+	url = https://github.com/danilishinyar/lab05.git
+[submodule "lab3a"]
+	path = lab3a
+	url = https://github.com/danilishinyar/lab3.git
+[submodule "lab3b"]
+	path = lab3b
+	url = https://github.com/danilishinyar/lab3b.git
+[submodule "4a"]
+	path = 4a
+	url = https://github.com/danilishinyar/lab4a.git
+[submodule "4b"]
+	path = 4b
+	url = https://github.com/danilishinyar/lab4b.git
+[submodule "5"]
+	path = 5
+	url = https://github.com/danilishinyar/lab5.git
+[submodule "0.5"]
+	path = 0.5
+	url = https://github.com/danilishinyar/lab05.git
+[submodule "3a"]
+	path = 3a
+	url = https://github.com/danilishinyar/lab3.git
+[submodule "3b"]
+	path = 3b
+	url = https://github.com/danilishinyar/lab3b.git
